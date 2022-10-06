@@ -271,7 +271,7 @@ transform: rotate(0);
 
 
 
-.videoWrapper > video {
+.videoWrapper  video {
   /** Simulationg background-size: cover */
   object-fit: cover;
   height:100vw;
@@ -395,7 +395,7 @@ transform: rotate(0);
 
 
 /* start of col vid section start */
-.wrapThreeVids > center > video{
+.wrapThreeVids > center > iframe{
   max-width: 90%;
 }
 .wrapThreeVidsParent{
@@ -452,7 +452,7 @@ transform: rotate(0);
   z-index: -2;
   padding: 1% 1% 1% 1%;
   margin: auto;
-  position: relative;
+  overflow: hidden;
   background-color: rgba(233, 230, 227,0.5) !important;      
 }
 
@@ -540,8 +540,8 @@ transform: rotate(0);
 
 #floatn img{
     
-    width: 20%;
-    height: 25%;
+    width: 4rem;
+    height: 4rm;
     border-radius: 6rem;
     opacity: 0.4;
       
@@ -584,3 +584,4 @@ footer a{
 }
 
 /* footer end */
+

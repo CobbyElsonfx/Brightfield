@@ -269,7 +269,7 @@ transform: rotate(0);
 
   .bgPic > p{
     text-decoration: overline;
-    color: white;
+    color: rgb(255, 255, 255);
     position: absolute;
     top: 65%;
     bottom: 5%;
@@ -589,12 +589,13 @@ transform: rotate(0);
 
 #floatn img{
     
-  width: 20%;
-  height: 25%;
+  width: 4rem;
+  height: 4rm;
   border-radius: 6rem;
   opacity: 0.4;
     
 }
+
   
   
   
