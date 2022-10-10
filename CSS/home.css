@@ -321,7 +321,7 @@ transform: rotate(0);
 }
 
 #firstImageholder{
-    background-image: url(../images/mandesktop.jpg);
+    background-image: url(../images/bossssss.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     top: 1rem;
@@ -444,9 +444,8 @@ transform: rotate(0);
 .flip{
   margin-top:5rem;
 }
-
 #FirstFlipOver{
-  height: 100%;
+  min-height: 28rem;
   width: 90%;
   position: relative;
   z-index: -2;
@@ -456,7 +455,18 @@ transform: rotate(0);
   background-color: rgba(233, 230, 227,0.5) !important;      
 }
 
-#secondImageholder{
+#FirstFlipOver1{
+  min-height: 28rem;
+  width: 90%;
+  position: relative;
+  z-index: -2;
+  padding: 1% 1% 1% 1%;
+  margin: auto;
+  overflow: hidden;
+  background-color: rgba(233, 230, 227,0.5) !important;      
+}
+
+/* #secondImageholder{
   background-image: url(../images/group.jpg);
   background-size: contain;
   background-repeat: no-repeat;
@@ -468,7 +478,101 @@ transform: rotate(0);
 
  
   
+} */
+.FirstOverlayOfFlipOver2{
+  min-height: 20rem;
+  
+  
+  max-width: 70%;
+  background-color: rgb(255, 255, 255);
+
+ 
+ margin-top: 2%;
+ margin-left: 39%;
+  margin-bottom:4% ;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0,0.2);
+  z-index: 2;
+  position: absolute;
 }
+.FirstOverlayOfFlipOver2 > h6{
+  font-size: 98%;
+  
+  color: rgb(0, 0, 0);
+  padding-right: 10%;
+  padding-left: 10px;
+  padding-top: 5%;
+  padding-bottom: 10px;
+
+}
+
+.FirstOverlayOfFlipOver2 > hr {
+  border-color: white;
+}
+
+
+
+
+
+
+
+
+/* start of third flip */
+
+#FirstFlipOver2{
+  min-height: 28rem;
+  width: 90%;
+  position: relative;
+  z-index: -2;
+  padding: 1% 1% 1% 1%;
+  margin: auto;
+  overflow: hidden;
+  background-color: rgba(233, 230, 227,0.5) !important;      
+}
+
+.FirstOverlayOfFlipOver3{
+  min-height: 20rem;
+  
+  
+  max-width: 70%;
+  background-color: rgb(255, 255, 255);
+
+ 
+ margin-top: 2%;
+ margin-left: 39%;
+  margin-bottom:4% ;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0,0.2);
+  z-index: 2;
+  position: absolute;
+}
+
+.FirstOverlayOfFlipOver3 > h6{
+  font-size: 98%;
+  
+  color: rgb(0, 0, 0);
+  padding-right: 10%;
+  padding-left: 10px;
+  padding-top: 5%;
+  padding-bottom: 10px;
+
+}
+
+.FirstOverlayOfFlipOver3 > hr {
+  border-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .FirstOverlayOfFlipOver{
   min-height: 20rem;
@@ -499,15 +603,8 @@ transform: rotate(0);
 .FirstOverlayOfFlipOver > hr {
   border-color: white;
 }
-
-
-
-
-
-
-/* start of third flip */
 #thirdImageholder{
-  background-image: url(../images/louiz.jpg);
+  background-image: url(../images/oliverandfrind.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   top: 1rem;
@@ -519,8 +616,20 @@ transform: rotate(0);
   
 }
 
+
+#FirstFlipOver3{
+  min-height: 28rem;
+  width: 90%;
+  position: relative;
+  z-index: -2;
+  padding: 1% 1% 1% 1%;
+  margin: auto;
+  overflow: hidden;
+  background-color: rgba(233, 230, 227,0.5) !important;      
+}
+
 #forthImageholder{
-  background-image: url(../images/grooup.png);
+  background-image: url(../images/oliverandfrind.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   top: 1rem;
